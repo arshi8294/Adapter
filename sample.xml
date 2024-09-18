@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<people>
+    <bestFriend no="1">
+        Farsad
+    </bestFriend>
+    <friend no="2">
+        Hosein
+    </friend>
+    <enemy no="3">
+        Mehdi
+    </enemy>
+</people>
